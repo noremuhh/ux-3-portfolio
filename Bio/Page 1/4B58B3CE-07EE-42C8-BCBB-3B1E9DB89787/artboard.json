@@ -40,11 +40,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
       "id": "116AA5C4-89DE-48BC-AF44-E49348281C98"
+    },
+    {
+      "class": "bitmap",
+      "id": "3D40E9F9-334B-443B-B432-A1209ED18090"
     }
   ],
   "name": "Mood Board Collage",
