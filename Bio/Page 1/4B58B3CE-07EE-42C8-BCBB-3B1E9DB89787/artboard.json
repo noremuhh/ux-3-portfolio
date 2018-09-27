@@ -43,12 +43,20 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "116AA5C4-89DE-48BC-AF44-E49348281C98"
+      "class": "bitmap",
+      "id": "3D40E9F9-334B-443B-B432-A1209ED18090"
     },
     {
       "class": "bitmap",
-      "id": "3D40E9F9-334B-443B-B432-A1209ED18090"
+      "id": "5117FB8D-7B40-4AE4-B02E-8A04CC6290AF"
+    },
+    {
+      "class": "bitmap",
+      "id": "E15948A4-26C1-4498-8CBF-7D1ACBC79271"
+    },
+    {
+      "class": "bitmap",
+      "id": "BE8C1054-3555-4A6D-9FCB-2AC4577A1D2C"
     }
   ],
   "name": "Mood Board Collage",
