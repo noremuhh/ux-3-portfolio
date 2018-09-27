@@ -1,7 +1,7 @@
 {
   "_class": "bitmap",
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "5117FB8D-7B40-4AE4-B02E-8A04CC6290AF",
+  "do_objectID": "8D9C7CB3-F2D2-412E-9475-EBCEC21CAFD1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,17 +15,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 213,
-    "width": 319,
-    "x": 194,
+    "height": 333.9841550990753,
+    "width": 592.8618255586447,
+    "x": -127.8408249183061,
     "y": 0
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/a5f1ab04fc6ff4556b028d4033ccb7f0573345bc.png",
+    "_ref": "images/c250824aea9311df4ab7f543376a0d2059cd4533",
     "_ref_class": "MSImageData"
   },
-  "intendedDPI": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

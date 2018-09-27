@@ -1,36 +1,10 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "attributedString",
-    "attributes": [
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "HelveticaNeue",
-              "size": 12
-            }
-          },
-          "kerning": 0,
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0
-          }
-        },
-        "length": 582,
-        "location": 0
-      }
-    ],
-    "string": "I am twenty-five years old and a Senior at Eastern Washington University, graduating Winter Quarter 2019. I grew up in a small town, my graduating class was only 33 students. That being said there were not many opportunities for me where I could just go on a computer and design.\n\nI was drawn into design by competing in a design competition that my advisor signed me up for when I was in a club. I had no idea what I was doing and created a design on Microsoft Word and actually placed at regionals. Which led me to compete at state level, which I placed as well. So here I am now."
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGX2BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHAcIDxAeHyAhIiguMjo7PD0+QkZSU1RVVldYWltVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAbgANfEQJGSSBhbSB0d2VudHktZml2ZSB5ZWFycyBvbGQgYW5kIGEgU2VuaW9yIGF0IEVhc3Rlcm4gV2FzaGluZ3RvbiBVbml2ZXJzaXR5LCBncmFkdWF0aW5nIFdpbnRlciBRdWFydGVyIDIwMTkuIEkgZ3JldyB1cCBpbiBhIHNtYWxsIHRvd24sIG15IGdyYWR1YXRpbmcgY2xhc3Mgd2FzIG9ubHkgMzMgc3R1ZGVudHMuIFRoYXQgYmVpbmcgc2FpZCB0aGVyZSB3ZXJlIG5vdCBtYW55IG9wcG9ydHVuaXRpZXMgZm9yIG1lIHdoZXJlIEkgY291bGQganVzdCBnbyBvbiBhIGNvbXB1dGVyIGFuZCBkZXNpZ24uCgpJIHdhcyBkcmF3biBpbnRvIGRlc2lnbiBieSBjb21wZXRpbmcgaW4gYSBkZXNpZ24gY29tcGV0aXRpb24gdGhhdCBteSBhZHZpc29yIHNpZ25lZCBtZSB1cCBmb3Igd2hlbiBJIHdhcyBpbiBhIGNsdWIuIEkgaGFkIG5vIGlkZWEgd2hhdCBJIHdhcyBkb2luZyBhbmQgY3JlYXRlZCBhIGRlc2lnbiBvbiBNaWNyb3NvZnQgV29yZCBhbmQgYWN0dWFsbHkgcGxhY2VkIGF0IHJlZ2lvbmFscy4gV2hpY2ggbGVkIG1lIHRvIGNvbXBldGUgYXQgc3RhdGUgbGV2ZWwsIHdoaWNoIEkgcGxhY2VkIGFzIHdlbGwuIFNvIGhlcmUgSSBhbSBub3cu0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAKgBKAGoAZXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu0yMKJCUmJ18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25aTlNUYWJTdG9wcxABgAmAANIpKissWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1BhcmFncmFwaFN0eWxloistWE5TT2JqZWN00govMDFfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ARgAvTERIKMzY5ojQ1gAyADaI3OIAOgA+AEF8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlEAxdSGVsdmV0aWNhTmV1ZdIpKj9AXxATTlNNdXRhYmxlRGljdGlvbmFyeaM/QS1cTlNEaWN0aW9uYXJ50ikqQ0RfEBBOU0ZvbnREZXNjcmlwdG9yokUtXxAQTlNGb250RGVzY3JpcHRvctMREgpHTB2kSElKS4ATgBSAFYAWpE1OTU2AF4AYgBeAF4AZU3JlZFVhbHBoYVRibHVlVWdyZWVuIwAAAAAAAAAAIz/wAAAAAAAA0ikqQVmiQS0QANIpKlxdXxASTlNBdHRyaWJ1dGVkU3RyaW5nol4tXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WFiVHJvb3SAAQAIABEAGgAjAC0AMgA3AFYAXABjAGwAcwCAAIIAhACGAtAC1wLfAuoC7wLxAvMC9QL3AvwC/gMAAwIDBAMGAxkDOwNoA28DdgOYA6MDpQOnA6kDrgO5A8ID1QPYA+ED5gQDBAUEBwQOBBEEEwQVBBgEGgQcBB4ENARKBEwEWgRfBHUEeQSGBIsEngShBLQEuwTABMIExATGBMgEzQTPBNEE0wTVBNcE2wThBOYE7AT1BP4FAwUGBQgFDQUiBSUFOgVMBU8FVAAAAAAAAAIBAAAAAAAAAGMAAAAAAAAAAAAAAAAAAAVW"
+    }
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "7D41E6DC-C00F-4591-B700-DD4EAD148795",
@@ -81,16 +55,11 @@
           "red": 0
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
-          "attributes": {
-            "name": "HelveticaNeue",
-            "size": 12
-          }
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAMXUhlbHZldGljYU5ldWXSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKAMwA2gDfAOoA8wEJAQ0BGgEjASgBOwE+AVEBYwFmAWsAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABbQ=="
         },
         "kerning": 0,
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0
+          "_archive": "YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKMHCA9VJG51bGzTCQoLDA0OXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvblYkY2xhc3NaTlNUYWJTdG9wcxABgAKAANIQERITWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1BhcmFncmFwaFN0eWxlohIUWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RcYVHJvb3SAAQgRGiMtMjc7QUhqcXx+gIKHkpuusbrMz9QAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAAAAAA1g=="
         }
       },
       "verticalAlignment": 0
