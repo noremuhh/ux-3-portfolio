@@ -13,17 +13,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 332,
-    "width": 256,
-    "x": -29.6774272861926,
-    "y": 325.37366386051
+    "height": 335,
+    "width": 258,
+    "x": -62.23291761686774,
+    "y": 342.3999986003212
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -38,7 +38,7 @@
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 11,
+  "rotation": -2,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

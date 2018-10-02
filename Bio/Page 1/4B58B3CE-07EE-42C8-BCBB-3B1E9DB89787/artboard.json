@@ -48,6 +48,14 @@
     },
     {
       "class": "bitmap",
+      "id": "A8847542-DA2D-4920-B05C-1041BAEE5BBD"
+    },
+    {
+      "class": "bitmap",
+      "id": "3DB2CF4A-EAC9-46FA-8BDB-F7C5C6DF0709"
+    },
+    {
+      "class": "bitmap",
       "id": "7DE2B8AD-BE64-4A65-BDD6-074C9713D5FC"
     },
     {
@@ -59,8 +67,16 @@
       "id": "EF887BC5-65E9-4A42-B91B-6FB3EC32E75E"
     },
     {
+      "class": "bitmap",
+      "id": "DAC16F1A-EAAE-40C3-865E-83EB6B441D8A"
+    },
+    {
       "class": "group",
       "id": "32B92B0A-5433-43EA-A918-9EFA1480038D"
+    },
+    {
+      "class": "bitmap",
+      "id": "2114C7FD-DF7C-4999-9F63-F285C885A5CB"
     }
   ],
   "name": "Mood Board Collage",

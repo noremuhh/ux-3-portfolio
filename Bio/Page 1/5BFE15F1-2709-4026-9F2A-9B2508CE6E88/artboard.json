@@ -40,23 +40,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "text",
-      "id": "86CE6193-CCB1-4FAA-8D55-D0A4C7C465DF"
-    },
     {
       "class": "text",
       "id": "7D41E6DC-C00F-4591-B700-DD4EAD148795"
     },
     {
-      "class": "shapeGroup",
-      "id": "36CC4618-5562-4F16-A6CF-4A81BB53B54A"
+      "class": "bitmap",
+      "id": "54445F14-D782-4D5C-86D1-B7C3A7030E6C"
     },
     {
       "class": "text",
-      "id": "E6896695-AB4F-4147-9C1C-E6FE2A02D055"
+      "id": "0AA15FF3-B147-4B7A-A230-C75789452F77"
     }
   ],
   "name": "Bio",
