@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "86C9059A-D392-41CB-AFB2-D3842D4B25B5",
+  "do_objectID": "8EBFB001-5A08-408A-A067-D2ECE9331D29",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -40,27 +40,27 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "ADB7717A-0543-4E73-9849-70FA35EDB1C7"
+      "id": "4E7876E7-E625-4081-B87B-1B0918025DFF"
     },
     {
       "class": "symbolInstance",
-      "id": "D0F16EF0-00C0-42F0-8521-6555B71C9C6B"
+      "id": "F3181E02-0966-4F34-A60D-A32080B7C879"
     },
     {
       "class": "symbolInstance",
-      "id": "612CC93A-FE7F-48A8-9575-643D31E52276"
+      "id": "BFE655F3-AF35-4590-B72C-CBCBD7671D6E"
     },
     {
       "class": "symbolInstance",
-      "id": "8FC9D864-A456-45EF-B5B9-E659B4B6A0BA"
+      "id": "5DEA8D30-333C-42AE-84E5-D0A07A5ED5D3"
     },
     {
       "class": "symbolInstance",
-      "id": "6E375D2E-5293-46A6-BCDD-DCB94346A8A1"
+      "id": "5444AF95-C21D-4C34-89CA-0A034BF857FC"
     }
   ],
   "name": "Letter",

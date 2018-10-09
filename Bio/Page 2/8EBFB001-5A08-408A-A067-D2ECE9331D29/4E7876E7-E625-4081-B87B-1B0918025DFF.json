@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "8FC9D864-A456-45EF-B5B9-E659B4B6A0BA",
+  "do_objectID": "4E7876E7-E625-4081-B87B-1B0918025DFF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 23,
-    "width": 100,
-    "x": 99,
-    "y": 310
+    "height": 36,
+    "width": 98,
+    "x": 195,
+    "y": 110
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,7 +24,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Sub Heading",
+  "name": "Heading",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -39,6 +39,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "469E76B5-9D01-4DDC-835F-96A136D16F0C",
+  "symbolID": "58DE9D6A-5249-4B68-B45A-BE824FC05BEA",
   "verticalSpacing": 0
 }
