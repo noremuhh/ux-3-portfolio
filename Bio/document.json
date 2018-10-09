@@ -16,7 +16,11 @@
   },
   "colorSpace": 0,
   "do_objectID": "0A8BAB01-76BF-4590-BC61-B38F9FD13078",
+  "foreignLayerStyles": [
+  ],
   "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
@@ -24,12 +28,14 @@
     ]
   },
   "meta": {
-    "appVersion": "49.3",
-    "build": 51167,
-    "version": 101
+    "appVersion": "50.2",
+    "build": 55047,
+    "version": 103
   },
   "pages": [
-    "Page 1"
+    "Bio & Mood Board",
+    "Pattern Library",
+    "Symbols"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
