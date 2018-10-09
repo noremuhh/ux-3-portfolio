@@ -40,7 +40,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
@@ -57,6 +57,10 @@
     {
       "class": "text",
       "id": "C3620EC0-E2A3-4DAC-977C-2BD1932E6EAD"
+    },
+    {
+      "class": "bitmap",
+      "id": "584609CE-77B6-4B8E-813F-0787A102DAB9"
     }
   ],
   "name": "Bio",

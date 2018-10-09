@@ -1,6 +1,7 @@
 {
-  "_class": "symbolInstance",
-  "do_objectID": "4E7876E7-E625-4081-B87B-1B0918025DFF",
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "584609CE-77B6-4B8E-813F-0787A102DAB9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -10,35 +11,36 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 36,
-    "width": 98,
-    "x": 41,
-    "y": 161
+    "constrainProportions": true,
+    "height": 243,
+    "width": 161,
+    "x": 87,
+    "y": 262
   },
-  "horizontalSpacing": 0,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/c590fdc908abb561546e7f350339914a6a222405.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Heading",
+  "name": "thumb_Facetune_07-10-2018-10-17-13_1024",
   "nameIsFixed": false,
-  "overrideValues": [
-  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "symbolID": "58DE9D6A-5249-4B68-B45A-BE824FC05BEA",
-  "verticalSpacing": 0
+  }
 }
