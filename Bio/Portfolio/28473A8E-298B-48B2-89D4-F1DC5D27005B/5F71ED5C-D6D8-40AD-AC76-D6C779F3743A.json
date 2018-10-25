@@ -1,8 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "BFE655F3-AF35-4590-B72C-CBCBD7671D6E",
+  "do_objectID": "5F71ED5C-D6D8-40AD-AC76-D6C779F3743A",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "EAE73DF5-0ED8-40B4-862D-22687133AB41",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,10 +14,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 41,
-    "width": 132,
-    "x": 38,
-    "y": 324
+    "do_objectID": "317456E9-41C8-46BD-BCED-CA148B20BF7C",
+    "height": 33,
+    "width": 100,
+    "x": 1148,
+    "y": 92
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,9 +26,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Secondary Button",
+  "name": "NAV BAR ITEMS",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C10EE615-6945-4557-A9F8-DA3A8D0273E4",
+      "overrideName": "9BB38714-4387-4540-9F60-027D49700F2C_stringValue",
+      "value": "PORTFOLIO"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -35,10 +43,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "D801CF9F-44F9-4879-B9C7-F878B882148F",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "54E60DEC-F888-4D12-A53D-BEC05A4C2300",
+  "symbolID": "A5453B54-F3E0-4391-A2A1-EDF6CBF8AF91",
   "verticalSpacing": 0
 }

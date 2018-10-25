@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "BFE655F3-AF35-4590-B72C-CBCBD7671D6E",
+  "do_objectID": "D1F4CEC2-6D0B-4140-9B85-4C9C9B9EB722",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 41,
-    "width": 132,
-    "x": 38,
-    "y": 324
+    "height": 72,
+    "width": 258,
+    "x": 97,
+    "y": 847
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,11 +24,11 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Secondary Button",
+  "name": "Heading",
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -39,6 +39,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "54E60DEC-F888-4D12-A53D-BEC05A4C2300",
+  "symbolID": "07A6AFFF-2021-4223-A7D3-6F1EB8DB789C",
   "verticalSpacing": 0
 }

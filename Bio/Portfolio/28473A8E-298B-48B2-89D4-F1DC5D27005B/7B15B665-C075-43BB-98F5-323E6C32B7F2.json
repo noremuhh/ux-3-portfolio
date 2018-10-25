@@ -1,8 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "BFE655F3-AF35-4590-B72C-CBCBD7671D6E",
+  "do_objectID": "7B15B665-C075-43BB-98F5-323E6C32B7F2",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "9198D81C-9F2C-49E4-B912-A29E8CCC3FB4",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,10 +14,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 41,
-    "width": 132,
-    "x": 38,
-    "y": 324
+    "do_objectID": "DC228A71-9EC6-4BCC-8950-8727884B92FB",
+    "height": 49,
+    "width": 172,
+    "x": 695,
+    "y": 1804
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,21 +26,28 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Secondary Button",
+  "name": "SKILL ITEMS",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "680366DF-C187-4807-B18A-737C5235B402",
+      "overrideName": "77475E88-7EF8-4FDF-8ED7-FB2F43CBB70B_stringValue",
+      "value": "SKETCH"
+    }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "BAE8DA64-9C39-4F48-93B0-BF234351C109",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "54E60DEC-F888-4D12-A53D-BEC05A4C2300",
+  "symbolID": "378469D2-6FC9-4847-AE8D-256683FDAA6D",
   "verticalSpacing": 0
 }

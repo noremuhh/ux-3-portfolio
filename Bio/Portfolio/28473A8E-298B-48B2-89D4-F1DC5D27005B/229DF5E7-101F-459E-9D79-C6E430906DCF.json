@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "BFE655F3-AF35-4590-B72C-CBCBD7671D6E",
+  "do_objectID": "229DF5E7-101F-459E-9D79-C6E430906DCF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 41,
-    "width": 132,
-    "x": 38,
-    "y": 324
+    "height": 49,
+    "width": 172,
+    "x": 695,
+    "y": 1562
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,11 +24,11 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Secondary Button",
+  "name": "SKILL ITEMS",
   "nameIsFixed": false,
   "overrideValues": [
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -39,6 +39,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "54E60DEC-F888-4D12-A53D-BEC05A4C2300",
+  "symbolID": "378469D2-6FC9-4847-AE8D-256683FDAA6D",
   "verticalSpacing": 0
 }

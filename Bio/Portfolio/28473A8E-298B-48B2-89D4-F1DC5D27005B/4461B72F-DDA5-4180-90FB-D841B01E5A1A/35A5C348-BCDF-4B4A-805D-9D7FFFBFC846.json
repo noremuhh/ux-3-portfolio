@@ -1,8 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "BFE655F3-AF35-4590-B72C-CBCBD7671D6E",
+  "do_objectID": "35A5C348-BCDF-4B4A-805D-9D7FFFBFC846",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "2714DDCA-A94B-4CB1-98E7-8B5F25BC1E9D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,10 +14,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 41,
-    "width": 132,
-    "x": 38,
-    "y": 324
+    "do_objectID": "4DC3ADCE-D303-40B2-9C69-869263E523D8",
+    "height": 36,
+    "width": 36,
+    "x": 0,
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,7 +26,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Secondary Button",
+  "name": "FILLED CIRCLE",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -35,10 +37,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "9E86ED36-D7C8-4031-A030-2B1B10DCC0C4",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "54E60DEC-F888-4D12-A53D-BEC05A4C2300",
+  "symbolID": "1833DF55-02D8-4C4F-96BD-AB8E1F4AAACD",
   "verticalSpacing": 0
 }
