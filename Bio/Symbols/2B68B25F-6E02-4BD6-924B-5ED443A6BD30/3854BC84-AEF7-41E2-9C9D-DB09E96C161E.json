@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AvenirNextCondensed-DemiBoldItalic",
+              "name": "AvenirNextCondensed-BoldItalic",
               "size": 64
             }
           },
@@ -51,11 +51,11 @@
     "constrainProportions": false,
     "do_objectID": "0E7321BE-46F3-4314-B699-0A025A205B70",
     "height": 87,
-    "width": 250,
+    "width": 261,
     "x": 0,
     "y": -10
   },
-  "glyphBounds": "{{-3, 17}, {255, 49}}",
+  "glyphBounds": "{{-3, 17}, {266, 49}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -88,7 +88,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AvenirNextCondensed-DemiBoldItalic",
+            "name": "AvenirNextCondensed-BoldItalic",
             "size": 64
           }
         },
