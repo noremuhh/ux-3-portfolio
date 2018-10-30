@@ -1,0 +1,65 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "45BFE5D1-64F1-4371-AC95-923FA91226BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3033AD82-5E40-4D39-92F2-2C15E20F610D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "AA614EC5-2A20-466E-97B5-F7174FA1C540",
+    "height": 366,
+    "width": 1331,
+    "x": 56,
+    "y": 2854
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/982065cee12f059f5f7f7591ee79b6d67d8c4a29.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "HOME PAGE",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "16A4BFBC-FF66-4612-A3A6-FB233A912D39",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
